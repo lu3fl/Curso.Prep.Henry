@@ -1,0 +1,17 @@
+﻿* Variables
+* Strings
+* Funciones (argumentos, `return`)
+* Declaraciones `if`
+* Valores booleanos (`true`, `false`)
+
+Variables: son espacios de memoria a los cuales le asignamos un nombre (ej. “a”) y luego podemos darle un valor inicial o dejarlas NULL a la espera valor que le sera asignado posteriormente 
+
+Strings: Es un tipo de datos “Cadena de caracteres”, esto incluye letras, números y símbolos siempre que estén entre comillas. Ejemplo “Hola!! soy Leandro y tengo 45 años”
+
+Funciones: Las funcione son porciones de código que se las pude utilizar cuantas veces sea necesario en un software, sin tener que escribir nuevamente dicho código. Se las invoca por su nombre seguido de paréntesis.
+A estas funciones se le pueden  pasar datos provenientes de otro sector del software llamados ARGUMENTOS.
+La sentencia RETURN finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función. 
+
+If: es una condicional, si se cumple determinada condición ejecuta las linea de código que posee, si no se cumple esta condición el software continua con su próxima linea.
+
+Valores booleanos (`true`, `false`) Una variable booleana es una variable que sólo puede tomar dos posibles valores: True (verdadero) o False (falso).
